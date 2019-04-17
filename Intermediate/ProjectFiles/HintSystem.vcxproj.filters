@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HintSystem.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D0D36ABE-A69C-4CCF-8F71-7F4A9A98B55A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HintSystem.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HintSystemEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{A78C3CA0-943B-48E5-9083-381513A3CE47}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HintSystem">
+      <UniqueIdentifier>{880B96BD-F602-4187-89CE-3955FB4C44FF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HintSystem\DebugSystem.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\DebugSystem.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\HintController.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\HintController.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\HintController2.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\HintController2.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\HintController3.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\HintController3.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\HintSystem\HintSystem.Build.cs">
+      <Filter>Source\HintSystem</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HintSystem\HintSystem.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\HintSystem.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\HintSystemCharacter.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\HintSystemCharacter.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\HintSystemGameMode.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\HintSystemGameMode.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\HintSystemHUD.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\HintSystemHUD.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\HintSystemProjectile.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\HintSystemProjectile.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\Platforms.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\Platforms.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\SlidingHints.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\SlidingHints.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\SlidingHints2.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\SlidingHints2.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\SlidingHints3.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\SlidingHints3.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\SlidingHints4.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\SlidingHints4.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\SlidingHints5.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\SlidingHints5.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\SlidingPuzzle.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\SlidingPuzzle.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\SlidingPuzzle2.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\SlidingPuzzle2.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\SlidingPuzzle3.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\SlidingPuzzle3.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\SlidingPuzzle4.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\SlidingPuzzle4.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HintSystem\SlidingPuzzle5.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HintSystem\SlidingPuzzle5.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\HintSystem\HintController4.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HintSystem\HintController5.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\HintSystem\VanillaHints.h">
+      <Filter>Source\HintSystem</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\HintSystem\HintController4.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HintSystem\HintController5.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HintSystem\VanillaHints.cpp">
+      <Filter>Source\HintSystem</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
